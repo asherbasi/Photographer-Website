@@ -1,2 +1,2 @@
-# Product-Card
-A food recipe page for omelet
+# Photographer's Website
+A website exhibiting a photographer's works and services
