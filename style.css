@@ -47,7 +47,7 @@ h1{ display:flex;
     padding: 0.45rem 0.8rem;
     border-radius: 12px;
     transition: all 0.3s ease;
-    color:#7f7f7f;
+    color:#000000;
 }
 
 .nav1 ul{
